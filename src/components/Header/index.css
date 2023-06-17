@@ -1,0 +1,13 @@
+.header-container {
+  width: 100%;
+  padding: 15px;
+  text-align: center;
+  background-color: #e2e8f0;
+  margin-bottom: 5px;
+}
+
+.header-heading {
+  font-size: 25px;
+  font-family: 'Roboto';
+  color: #475569;
+}

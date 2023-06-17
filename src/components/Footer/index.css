@@ -1,0 +1,13 @@
+.footer-container {
+  width: 100%;
+  padding: 15px;
+  text-align: center;
+  background-color: #cbd5e1;
+  margin-top: 5px;
+}
+
+.footer-heading {
+  font-size: 25px;
+  font-family: 'Roboto';
+  color: #475569;
+}
